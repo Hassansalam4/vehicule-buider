@@ -29,9 +29,13 @@ const car1 = new Car(
 
 // push vehicles to array
 // TODO: uncomment once trucks are implemented
+
 // vehicles.push(truck1);
+
 vehicles.push(car1);
+
 // TODO: uncomment once motorbikes are implemented
+
 // vehicles.push(motorbike1);
 
 // create a new instance of the Cli class
